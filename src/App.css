@@ -1,0 +1,34 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.header {
+  padding: 2%;
+}
+.navigation {
+  padding-left: 2%;
+}
+.cars,.bikes,.home,.shows {
+  padding-left: 2%;
+}
+
+.level1 {
+  font-weight: bold;
+  padding-left: 4%;
+}
+.level2 {
+  padding-left: 8%;
+}
+.level3 {
+  padding-left: 12%;
+}
